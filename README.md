@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ssiva-raman
 - 👀 I’m interested in Web Development...
 - 🌱 I’m currently learning Django...
-- 🔗 Linked in - ()
+- 🔗 Linked in - https://www.linkedin.com/in/sivaramansofficial/
 -
 - 👀 Resume [SIVA_RAMAN.pdf](https://github.com/user-attachments/files/16105416/SIVA_RAMAN.pdf)
 - 
